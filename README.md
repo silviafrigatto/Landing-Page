@@ -4,5 +4,4 @@ Além de me ajudar a aprofundar os conhecimentos básicos de HTML e CSS, esse pr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-A Landing Page project that I developed based on Rafaella Ballerini's excellent tutorial (https://www.youtube.com/watch?v=llF6vD-RljE&t=1245s - available only in portuguese).
-Besides helping me deepen my knowledge on HTML and CSS, the project also intriduced me to Flex Box.
+A Landing Page project that I developed based on Rafaella Ballerini's excellent tutorial (https://www.youtube.com/watch?v=llF6vD-RljE&t=1245s - available only in brazilian portuguese). Besides helping me deepen my knowledge on HTML and CSS, the project also introduced me to Flex Box.
